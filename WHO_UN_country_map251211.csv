@@ -1,0 +1,266 @@
+,WHOCountry,WHORegion,WorldBankLevel,WHOPop,GHDSubRegion,UNRegion,UNSubregion,UNIntermediateRegion,UNCountry,origin_country,origin_country_unknown,DST_ethnicity
+1,Bolivia,Americas,Lower middle income,11513102,Andean Latin America,Americas,Latin America and the Caribbean,South America,Bolivia (Plurinational State of),Bolivia,0,Non Western
+2,Ecuador,Americas,Upper middle income,17373657,Andean Latin America,Americas,Latin America and the Caribbean,South America,Ecuador,Ecuador,0,Non Western
+3,Peru,Americas,Upper middle income,32510462,Andean Latin America,Americas,Latin America and the Caribbean,South America,Peru,Peru,0,Non Western
+4,Australia,Western Pacific,High income,25203200,Ausralasia,Oceania,Australia and New Zealand,Australia and New Zealand,Australia,Australien,0,Western
+5,New Zealand,Western Pacific,High income,4783062,Ausralasia,Oceania,Australia and New Zealand,Australia and New Zealand,New Zealand,New Zealand,0,Western
+6,Antigua and Barbuda,Americas,High income,97115,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Antigua and Barbuda,Antigua og Barbuda,0,Non Western
+7,Aruba,Americas,High income,106310,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Aruba,Aruba,0,Non Western
+8,"Bahamas,  The",Americas,High income,389486,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Bahamas,Bahamas,0,Non Western
+9,Barbados,Americas,High income,287021,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Barbados,Barbados,0,Non Western
+10,Belize,Americas,Upper middle income,390351,Caribbean,Americas,Latin America and the Caribbean,Central America,Belize,Belize,0,Non Western
+11,Cayman Islands,Americas,High income,64948,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Cayman Islands,Caymanøerne,0,Non Western
+12,Cuba,Americas,Upper middle income,11333484,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Cuba,Cuba,0,Non Western
+13,Curaçao,Americas,High income,163423,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Curaçao,Curaçao,0,Non Western
+14,Dominica,Americas,Upper middle income,71808,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Dominica,Dominica,0,Non Western
+15,Dominican Republic,Americas,Upper middle income,10738957,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Dominican Republic,Dominikanske Republik,0,Non Western
+16,Grenada,Americas,Upper middle income,112002,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Grenada,Grenada,0,Non Western
+17,Guyana,Americas,Upper middle income,782775,Caribbean,Americas,Latin America and the Caribbean,South America,Guyana,Guyana,0,Non Western
+18,Haiti,Americas,Low income,11263079,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Haiti,Haiti,0,Non Western
+19,Jamaica,Americas,Upper middle income,2948277,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Jamaica,Jamaica,0,Non Western
+20,Puerto Rico,Americas,High income,2933404,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Puerto Rico,Puerto Rico,0,Non Western
+21,Saint Kitts and Nevis,Americas,High income,52834,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Saint Kitts and Nevis,Saint Kitts og Nevis,0,Non Western
+22,Saint Lucia,Americas,Upper middle income,182795,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Saint Lucia,Saint Lucia,0,Non Western
+23,Saint Vincent and the Grenadines,Americas,Upper middle income,110593,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Saint Vincent and the Grenadines,Saint Vincent og Grenadinerne,0,Non Western
+24,Sint Maarten (Dutch part),Americas,High income,42389,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Sint Maarten (Dutch part),Sint Maarten (Dutch part),0,Non Western
+25,St Martin (French part),Americas,High income,38002,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Saint Martin (French Part),St Martin (French part),0,Non Western
+26,Suriname,Americas,Upper middle income,581363,Caribbean,Americas,Latin America and the Caribbean,South America,Suriname,Surinam,0,Non Western
+27,Trinidad and Tobago,Americas,High income,1394969,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Trinidad and Tobago,Trinidad og Tobago,0,Non Western
+28,Turks and Caicos Islands,Americas,High income,38194,Caribbean,Americas,Latin America and the Caribbean,Caribbean,Turks and Caicos Islands,Turks og Caicosøerne,0,Non Western
+29,Virgin Islands,Americas,High income,104579,Caribbean,Americas,Latin America and the Caribbean,Caribbean,United States Virgin Islands,Virginøerne,0,Non Western
+30,Armenia,European,Upper middle income,2957728,Central Asia,Asia,Western Asia,Western Asia,Armenia,Armenien,0,Non Western
+31,Azerbaijan,European,Upper middle income,10047719,Central Asia,Asia,Western Asia,Western Asia,Azerbaijan,Aserbajdsjan,0,Non Western
+32,Georgia,European,Upper middle income,3996762,Central Asia,Asia,Western Asia,Western Asia,Georgia,Georgien,0,Non Western
+33,Kazakhstan,European,Upper middle income,18551428,Central Asia,Asia,Central Asia,Central Asia,Kazakhstan,Kasakhstan,0,Non Western
+34,Kyrgyzstan,European,Lower middle income,6415851,Central Asia,Asia,Central Asia,Central Asia,Kyrgyzstan,Kirgisistan,0,Non Western
+35,Mongolia,Western Pacific,Lower middle income,3225166,Central Asia,Asia,Eastern Asia,Eastern Asia,Mongolia,Mongoliet,0,Non Western
+36,Tajikistan,European,Low income,9321023,Central Asia,Asia,Central Asia,Central Asia,Tajikistan,Tadsjikistan,0,Non Western
+37,Turkmenistan,European,Upper middle income,5942094,Central Asia,Asia,Central Asia,Central Asia,Turkmenistan,Turkmenistan,0,Non Western
+38,Uzbekistan,European,Lower middle income,32981715,Central Asia,Asia,Central Asia,Central Asia,Uzbekistan,Usbekistan,0,Non Western
+39,Albania,European,Upper middle income,2880913,Central Europe,Europe,Southern Europe,Southern Europe,Albania,Albanien,0,Non Western
+40,Bosnia and Herzegovina,European,Upper middle income,3300998,Central Europe,Europe,Southern Europe,Southern Europe,Bosnia and Herzegovina,Bosnien-Hercegovina,0,Non Western
+41,Bulgaria,European,Upper middle income,7000117,Central Europe,Europe,Eastern Europe,Eastern Europe,Bulgaria,Bulgarien,0,Western
+42,Croatia,European,High income,4130299,Central Europe,Europe,Southern Europe,Southern Europe,Croatia,Kroatien,0,Western
+43,Czech Republic,European,High income,10689213,Central Europe,Europe,Eastern Europe,Eastern Europe,Czechia,Tjekkiet,0,Western
+44,Hungary,European,High income,9684680,Central Europe,Europe,Eastern Europe,Eastern Europe,Hungary,Ungarn,0,Western
+45,Kosovo,European,Upper middle income,1845300,Central Europe,Europe,Southern Europe,Southern Europe,Kosovo (not UN),Kosovo,0,Non Western
+46,Montenegro,European,Upper middle income,627988,Central Europe,Europe,Southern Europe,Southern Europe,Montenegro,Montenegro,0,Non Western
+47,North Macedonia,European,Upper middle income,2083458,Central Europe,Europe,Southern Europe,Southern Europe,North Macedonia,Nordmakedonien,0,Non Western
+48,Poland,European,High income,37887771,Central Europe,Europe,Eastern Europe,Eastern Europe,Poland,Polen,0,Western
+49,Romania,European,High income,19364558,Central Europe,Europe,Eastern Europe,Eastern Europe,Romania,Rumænien,0,Western
+50,Serbia,European,Upper middle income,6926928,Central Europe,Europe,Southern Europe,Southern Europe,Serbia,Serbien,0,Non Western
+51,Slovakia,European,High income,5457012,Central Europe,Europe,Eastern Europe,Eastern Europe,Slovakia,Slovakiet,0,Western
+52,Slovenia,European,High income,2078654,Central Europe,Europe,Southern Europe,Southern Europe,Slovenia,Slovenien,0,Western
+53,Colombia,Americas,Upper middle income,50339443,Central Latin America,Americas,Latin America and the Caribbean,South America,Colombia,Colombia,0,Non Western
+54,Costa Rica,Americas,Upper middle income,5047561,Central Latin America,Americas,Latin America and the Caribbean,Central America,Costa Rica,Costa Rica,0,Non Western
+55,El Salvador,Americas,Lower middle income,6453550,Central Latin America,Americas,Latin America and the Caribbean,Central America,El Salvador,El Salvador,0,Non Western
+56,Guatemala,Americas,Upper middle income,17581476,Central Latin America,Americas,Latin America and the Caribbean,Central America,Guatemala,Guatemala,0,Non Western
+57,Honduras,Americas,Lower middle income,9746115,Central Latin America,Americas,Latin America and the Caribbean,Central America,Honduras,Honduras,0,Non Western
+58,Mexico,Americas,Upper middle income,127575529,Central Latin America,Americas,Latin America and the Caribbean,Central America,Mexico,Mexico,0,Non Western
+59,Nicaragua,Americas,Lower middle income,6545503,Central Latin America,Americas,Latin America and the Caribbean,Central America,Nicaragua,Nicaragua,0,Non Western
+60,Panama,Americas,High income,4246440,Central Latin America,Americas,Latin America and the Caribbean,Central America,Panama,Panama,0,Non Western
+61,Venezuela,Americas,Upper middle income,28515829,Central Latin America,Americas,Latin America and the Caribbean,South America,Venezuela (Bolivarian Republic of),Venezuela,0,Non Western
+62,Angola,African,Lower middle income,31825299,Central Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Angola,Angola,0,Non Western
+63,Central African Republic,African,Low income,4745179,Central Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Central African Republic,Centralafrikanske Republik,0,Non Western
+64,"Congo, Democratic Republic of ",African,Low income,86790568,Central Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Democratic Republic of the Congo,"Congo, Demokratiske Republik",0,Non Western
+65,"Congo, republic of",African,Lower middle income,5380504,Central Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Congo,"Congo, Republikken",0,Non Western
+66,Equatorial Guinea,African,Upper middle income,1355982,Central Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Equatorial Guinea,Ækvatorialguinea,0,Non Western
+67,Gabon,African,Upper middle income,2172578,Central Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Gabon,Gabon,0,Non Western
+68,China,Western Pacific,Upper middle income,1433783692,East Asia,Asia,Eastern Asia,Eastern Asia,China,Kina,0,Non Western
+69,Hong Kong,Western Pacific,High income,7436157,East Asia,Asia,Eastern Asia,Eastern Asia,"China, Hong Kong Special Administrative Region",Hong Kong,0,Non Western
+70,"Korea, Democratic People's Republic of ",South-East Asia,Low income,25666158,East Asia,Asia,Eastern Asia,Eastern Asia,Democratic People's Republic of Korea,Nordkorea,0,Non Western
+71,Macao SAR,South-East Asia,High income,640446,East Asia,Asia,Eastern Asia,Eastern Asia,"China, Macao Special Administrative Region",Macao SAR,0,Non Western
+72,Taiwan,Western Pacific,High income,23773881,East Asia,Asia,Eastern Asia,Eastern Asia,Taiwan (not UN),Taiwan,0,Non Western
+73,Belarus,European,Upper middle income,9452409,Eastern Europe,Europe,Eastern Europe,Eastern Europe,Belarus,Belarus,0,Non Western
+74,Estonia,European,High income,1325649,Eastern Europe,Europe,Northern Europe,Northern Europe,Estonia,Estland,0,Western
+75,Latvia,European,High income,1906740,Eastern Europe,Europe,Northern Europe,Northern Europe,Latvia,Letland,0,Western
+76,Lithuania,European,High income,2759631,Eastern Europe,Europe,Northern Europe,Northern Europe,Lithuania,Litauen,0,Western
+77,"Moldova, Republic of",European,Lower middle income,4043258,Eastern Europe,Europe,Eastern Europe,Eastern Europe,Republic of Moldova,Moldova,0,Non Western
+78,Russian Federation,European,Upper middle income,145872260,Eastern Europe,Europe,Eastern Europe,Eastern Europe,Russian Federation,Rusland,0,Non Western
+79,Ukraine,European,Lower middle income,43993643,Eastern Europe,Europe,Eastern Europe,Eastern Europe,Ukraine,Ukraine,0,Non Western
+80,Burundi,African,Low income,11530577,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Burundi,Burundi,0,Non Western
+81,Comoros,African,Lower middle income,850891,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Comoros,Comorerne,0,Non Western
+82,Djibouti,Eastern Mediterranean,Lower middle income,973557,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Djibouti,Djibouti,0,Non Western
+83,Eritrea,African,Low income,3497117,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Eritrea,Eritrea,0,Non Western
+84,Ethiopia,African,Low income,112078727,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Ethiopia,Etiopien,0,Non Western
+85,Kenya,African,Lower middle income,52573967,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Kenya,Kenya,0,Non Western
+86,Madagascar,African,Low income,26969306,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Madagascar,Madagaskar,0,Non Western
+87,Malawi,African,Low income,18628749,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Malawi,Malawi,0,Non Western
+88,Mozambique,African,Low income,30366043,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Mozambique,Mozambique,0,Non Western
+89,Rwanda,African,Low income,12626938,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Rwanda,Rwanda,0,Non Western
+90,Somalia,Eastern Mediterranean,Low income,15442906,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Somalia,Somalia,0,Non Western
+91,South Sudan,African,Low income,11062114,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,South Sudan,Sydsudan,0,Non Western
+92,Sudan,Eastern Mediterranean,Low income,42813237,Eastern Sub-Saharan Africa,Africa,Northern Africa,Northern Africa,Sudan,Sudan,0,Non Western
+93,"Tanzania, United Republic of ",African,Lower middle income,58005461,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,United Republic of Tanzania,Tanzania,0,Non Western
+94,Uganda,African,Low income,44269587,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Uganda,Uganda,0,Non Western
+95,Zambia,African,Lower middle income,17861034,Eastern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Zambia,Zambia,0,Non Western
+96,Bermuda,Americas,High income,62508,High-income North America,Americas,Northern America,Northern America,Bermuda,Bermuda,0,Non Western
+97,British Virgin Islands,Americas,High income,30033,High-income Asia Pacific,Americas,Latin America and the Caribbean,Caribbean,British Virgin Islands,British Virginøerne,0,Non Western
+98,Japan,Western Pacific,High income,126860299,High-income Asia Pacific,Asia,Eastern Asia,Eastern Asia,Japan,Japan,0,Non Western
+99,"Korea, Republic of ",Western Pacific,High income,51225321,High-income Asia Pacific,Asia,Eastern Asia,Eastern Asia,Republic of Korea,Sydkorea,0,Non Western
+100,Singapore,Western Pacific,High income,5804343,High-income Asia Pacific,Asia,South-eastern Asia,South-eastern Asia,Singapore,Singapore,0,Non Western
+101,Canada,Americas,High income,37411038,High-income North America,Americas,Northern America,Northern America,Canada,Canada,0,Western
+102,United States of America,Americas,High income,329064917,High-income North America,Americas,Northern America,Northern America,United States of America,USA,0,Western
+103,Afghanistan,Eastern Mediterranean,Low income,38041757,North Africa and Middle East,Asia,Southern Asia,Southern Asia,Afghanistan,Afghanistan,0,Non Western
+104,Algeria,African,Lower middle income,43053054,North Africa and Middle East,Africa,Northern Africa,Northern Africa,Algeria,Algeriet,0,Non Western
+105,Bahrain,Eastern Mediterranean,High income,1641164,North Africa and Middle East,Asia,Western Asia,Western Asia,Bahrain,Bahrain,0,Non Western
+106,Egypt,Eastern Mediterranean,Lower middle income,100388076,North Africa and Middle East,Africa,Northern Africa,Northern Africa,Egypt,Egypten,0,Non Western
+107,"Iran, Islamic Republic of",Eastern Mediterranean,Upper middle income,82913893,North Africa and Middle East,Asia,Southern Asia,Southern Asia,Iran (Islamic Republic of),Iran,0,Non Western
+108,Iraq,Eastern Mediterranean,Upper middle income,39309789,North Africa and Middle East,Asia,Western Asia,Western Asia,Iraq,Irak,0,Non Western
+109,Jordan,Eastern Mediterranean,Upper middle income,10101697,North Africa and Middle East,Asia,Western Asia,Western Asia,Jordan,Jordan,0,Non Western
+110,Kuwait,Eastern Mediterranean,High income,4207077,North Africa and Middle East,Asia,Western Asia,Western Asia,Kuwait,Kuwait,0,Non Western
+111,Lebanon,Eastern Mediterranean,Upper middle income,3874000,North Africa and Middle East,Asia,Western Asia,Western Asia,Lebanon,Libanon,0,Non Western
+112,Libya,Eastern Mediterranean,Upper middle income,6777453,North Africa and Middle East,Africa,Northern Africa,Northern Africa,Libya,Libyen,0,Non Western
+113,Morocco,Eastern Mediterranean,Lower middle income,36471766,North Africa and Middle East,Africa,Northern Africa,Northern Africa,Morocco,Marokko,0,Non Western
+114,Oman,Eastern Mediterranean,High income,4974992,North Africa and Middle East,Asia,Western Asia,Western Asia,Oman,Oman,0,Non Western
+115,Qatar,Eastern Mediterranean,High income,330000,North Africa and Middle East,Asia,Western Asia,Western Asia,Qatar,Qatar,0,Non Western
+116,Saudi Arabia,Eastern Mediterranean,High income,34268529,North Africa and Middle East,Asia,Western Asia,Western Asia,Saudi Arabia,Saudi-Arabien,0,Non Western
+117,Syrian Arab Republic,Eastern Mediterranean,Low income,17070132,North Africa and Middle East,Asia,Western Asia,Western Asia,Syrian Arab Republic,Syrien,0,Non Western
+118,Tunisia,Eastern Mediterranean,Lower middle income,11694721,North Africa and Middle East,Africa,Northern Africa,Northern Africa,Tunisia,Tunesien,0,Non Western
+119,Turkey,European,Upper middle income,83429607,North Africa and Middle East,Asia,Western Asia,Western Asia,Türkiye,Tyrkiet,0,Non Western
+120,United Arab Emirates,Eastern Mediterranean,High income,9770526,North Africa and Middle East,Asia,Western Asia,Western Asia,United Arab Emirates,Forenede Arabiske Emirater,0,Non Western
+121,Yemen,Eastern Mediterranean,Low income,29161922,North Africa and Middle East,Asia,Western Asia,Western Asia,Yemen,Yemen,0,Non Western
+122,American Samoa,Western Pacific,Upper middle income,55312,Oceania,Oceania,Polynesia,Polynesia,American Samoa,Amerikansk Samoa,0,Non Western
+123,Cook Islands,Western Pacific,Upper middle income,17547,Oceania,Oceania,Polynesia,Polynesia,Cook Islands,Cookøerne,0,Non Western
+124,Fiji,Western Pacific,Upper middle income,889955,Oceania,Oceania,Melanesia,Melanesia,Fiji,Fiji,0,Non Western
+125,French Polynesia,Western Pacific,High income,279285,Oceania,Oceania,Polynesia,Polynesia,French Polynesia,Fransk Polynesien,0,Non Western
+126,Guam,Western Pacific,High income,167295,Oceania,Oceania,Micronesia,Micronesia,Guam,Guam,0,Non Western
+127,Kiribati,Western Pacific,Lower middle income,117608,Oceania,Oceania,Micronesia,Micronesia,Kiribati,Kiribati,0,Non Western
+128,Marshall Islands,Western Pacific,Upper middle income,58791,Oceania,Oceania,Micronesia,Micronesia,Marshall Islands,Marshalløerne,0,Non Western
+129,"Micronesia, Federated States of",Western Pacific,Lower middle income,113811,Oceania,Oceania,Micronesia,Micronesia,Micronesia (Federated States of),Mikronesien,0,Non Western
+130,Nauru,Western Pacific,High income,10764,Oceania,Oceania,Micronesia,Micronesia,Nauru,Nauru,0,Non Western
+131,New Caledonia,Western Pacific,High income,282757,Oceania,Oceania,Melanesia,Melanesia,New Caledonia,Ny Caledonia,0,Non Western
+132,Niue,Western Pacific,Low income,1614,Oceania,Oceania,Polynesia,Polynesia,Niue,Niue,0,Non Western
+133,Northern Mariana Islands,Western Pacific,High income,57213,Oceania,Oceania,Micronesia,Micronesia,Northern Mariana Islands,Northern Marianaøerne,0,Non Western
+134,Palau,Western Pacific,High income,18001,Oceania,Oceania,Micronesia,Micronesia,Palau,Palau,0,Non Western
+135,Papua New Guinea,Western Pacific,Lower middle income,8776119,Oceania,Oceania,Melanesia,Melanesia,Papua New Guinea,Papua Ny Guinea,0,Non Western
+136,Samoa,Western Pacific,Upper middle income,197093,Oceania,Oceania,Polynesia,Polynesia,Samoa,Samoa,0,Non Western
+137,Solomon Islands,Western Pacific,Lower middle income,669821,Oceania,Oceania,Melanesia,Melanesia,Solomon Islands,Solomonøerne,0,Non Western
+138,Tonga,Western Pacific,Upper middle income,104497,Oceania,Oceania,Polynesia,Polynesia,Tonga,Tonga,0,Non Western
+139,Tuvalu,Western Pacific,Upper middle income,11655,Oceania,Oceania,Polynesia,Polynesia,Tuvalu,Tuvalu,0,Non Western
+140,Vanuatu,Western Pacific,Lower middle income,299882,Oceania,Oceania,Melanesia,Melanesia,Vanuatu,Vanuatu,0,Non Western
+141,Bangladesh,South-East Asia,Lower middle income,163046173,South Asia,Asia,Southern Asia,Southern Asia,Bangladesh,Bangladesh,0,Non Western
+142,Bhutan,South-East Asia,Lower middle income,763094,South Asia,Asia,Southern Asia,Southern Asia,Bhutan,Bhutan,0,Non Western
+143,India,South-East Asia,Lower middle income,1366417756,South Asia,Asia,Southern Asia,Southern Asia,India,Indien,0,Non Western
+144,Nepal,South-East Asia,Lower middle income,28608715,South Asia,Asia,Southern Asia,Southern Asia,Nepal,Nepal,0,Non Western
+145,Pakistan,Eastern Mediterranean,Lower middle income,216565317,South Asia,Asia,Southern Asia,Southern Asia,Pakistan,Pakistan,0,Non Western
+146,Brunei Darussalam,Western Pacific,High income,433296,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Brunei Darussalam,Brunei,0,Non Western
+147,Cambodia,Western Pacific,Lower middle income,16486542,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Cambodia,Cambodja,0,Non Western
+148,Indonesia,South-East Asia,Upper middle income,270625567,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Indonesia,Indonesien,0,Non Western
+149,"Lao, People's Democratic Republic of",Western Pacific,Lower middle income,7169456,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Lao People's Democratic Republic,Laos,0,Non Western
+150,Malaysia,Western Pacific,Upper middle income,31949789,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Malaysia,Malaysia,0,Non Western
+151,Maldives,South-East Asia,Upper middle income,530957,Southeast Asia,Asia,Southern Asia,Southern Asia,Maldives,Maldiverne,0,Non Western
+152,Mauritius,African,High income,1269670,Southeast Asia,Africa,Sub-Saharan Africa,Eastern Africa,Mauritius,Mauritius,0,Non Western
+153,Myanmar,South-East Asia,Lower middle income,54045422,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Myanmar,Myanmar,0,Non Western
+154,Philippines,Western Pacific,Lower middle income,108116622,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Philippines,Filippinerne,0,Non Western
+155,Seychelles,African,High income,97741,Southeast Asia,Africa,Sub-Saharan Africa,Eastern Africa,Seychelles,Seychellerne,0,Non Western
+156,Sri Lanka,South-East Asia,Lower middle income,21323734,Southeast Asia,Asia,Southern Asia,Southern Asia,Sri Lanka,Sri Lanka,0,Non Western
+157,Thailand,South-East Asia,Upper middle income,69625581,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Thailand,Thailand,0,Non Western
+158,Timor-Leste,South-East Asia,Lower middle income,1293120,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Timor-Leste,Timor-Leste,0,Non Western
+159,Vietnam,Western Pacific,Lower middle income,96462108,Southeast Asia,Asia,South-eastern Asia,South-eastern Asia,Viet Nam,Vietnam,0,Non Western
+160,Argentina,Americas,Upper middle income,44780675,Southern Latin America,Americas,Latin America and the Caribbean,South America,Argentina,Argentina,0,Non Western
+161,Chile,Americas,High income,18952035,Southern Latin America,Americas,Latin America and the Caribbean,South America,Chile,Chile,0,Non Western
+162,Uruguay,Americas,High income,3461731,Southern Latin America,Americas,Latin America and the Caribbean,South America,Uruguay,Uruguay,0,Non Western
+163,Botswana,African,Upper middle income,2303703,Southern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Southern Africa,Botswana,Botswana,0,Non Western
+164,Eswatini,African,Lower middle income,1148133,Southern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Southern Africa,Eswatini,Eswatini,0,Non Western
+165,Lesotho,African,Lower middle income,2125267,Southern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Southern Africa,Lesotho,Lesotho,0,Non Western
+166,Namibia,African,Upper middle income,2494524,Southern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Southern Africa,Namibia,Namibia,0,Non Western
+167,South Africa,African,Upper middle income,58558267,Southern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Southern Africa,South Africa,Sydafrika,0,Non Western
+168,Zimbabwe,African,Lower middle income,14645473,Southern Sub-Saharan Africa,Africa,Sub-Saharan Africa,Eastern Africa,Zimbabwe,Zimbabwe,0,Non Western
+169,Brazil,Americas,Upper middle income,211049519,Tropical Latin America,Americas,Latin America and the Caribbean,South America,Brazil,Brasilien,0,Non Western
+170,Paraguay,Americas,Upper middle income,7044639,Tropical Latin America,Americas,Latin America and the Caribbean,South America,Paraguay,Paraguay,0,Non Western
+171,Andorra,European,High income,77146,Western Europe,Europe,Southern Europe,Southern Europe,Andorra,Andorra,0,Western
+172,Austria,European,High income,8955108,Western Europe,Europe,Western Europe,Western Europe,Austria,Østrig,0,Western
+173,Belgium,European,High income,11539326,Western Europe,Europe,Western Europe,Western Europe,Belgium,Belgien,0,Western
+174,Channel Islands,European,High income,172264,Western Europe,Europe,Northern Europe,Northern Europe,Channel Islands,Channeløerne,0,Western
+175,Cyprus,European,High income,1198574,Western Europe,Asia,Western Asia,Western Asia,Cyprus,Cypern,0,Non Western
+176,Denmark,European,High income,5771877,Western Europe,Europe,Northern Europe,Northern Europe,Denmark,Danmark,0,Western
+177,Finland,European,High income,5532159,Western Europe,Europe,Northern Europe,Northern Europe,Finland,Finland,0,Western
+178,France,European,High income,65129731,Western Europe,Europe,Western Europe,Western Europe,France,Frankrig,0,Western
+179,Germany,European,High income,83517046,Western Europe,Europe,Western Europe,Western Europe,Germany,Tyskland,0,Western
+180,Gibraltar,European,High income,33706,Western Europe,Europe,Southern Europe,Southern Europe,Gibraltar,Gibraltar,0,Western
+181,Greece,European,High income,10473452,Western Europe,Europe,Southern Europe,Southern Europe,Greece,Grækenland,0,Western
+182,Iceland,European,High income,339037,Western Europe,Europe,Northern Europe,Northern Europe,Iceland,Island,0,Western
+183,Ireland,European,High income,4882498,Western Europe,Europe,Northern Europe,Northern Europe,Ireland,Irland,0,Western
+184,Isle of Man,European,High income,84589,Western Europe,Europe,Northern Europe,Northern Europe,Isle of Man,Isle of Man,0,Western
+185,Israel,European,High income,8519373,Western Europe,Asia,Western Asia,Western Asia,Israel,Israel,0,Non Western
+186,Italy,European,High income,60550092,Western Europe,Europe,Southern Europe,Southern Europe,Italy,Italien,0,Western
+187,Liechtenstein,European,High income,38020,Western Europe,Europe,Western Europe,Western Europe,Liechtenstein,Liechtenstein,0,Western
+188,Luxembourg,European,High income,615730,Western Europe,Europe,Western Europe,Western Europe,Luxembourg,Luxembourg,0,Western
+189,Malta,European,High income,440377,Western Europe,Europe,Southern Europe,Southern Europe,Malta,Malta,0,Western
+190,Monaco,European,High income,38967,Western Europe,Europe,Western Europe,Western Europe,Monaco,Monaco,0,Western
+191,Netherlands,European,High income,17097123,Western Europe,Europe,Western Europe,Western Europe,Netherlands (Kingdom of the),Nederlandene,0,Western
+192,Norway,European,High income,5378859,Western Europe,Europe,Northern Europe,Northern Europe,Norway,Norge,0,Western
+193,Palestinian Authority,Eastern Mediterranean,Lower middle income,4981422,Western Europe,Asia,Western Asia,Western Asia,State of Palestine,Palestine,0,Non Western
+194,Portugal,European,High income,10226178,Western Europe,Europe,Southern Europe,Southern Europe,Portugal,Portugal,0,Western
+195,San Marino,European,High income,33864,Western Europe,Europe,Southern Europe,Southern Europe,San Marino,San Marino,0,Western
+196,Spain,European,High income,46736782,Western Europe,Europe,Southern Europe,Southern Europe,Spain,Spanien,0,Western
+197,Sweden,European,High income,10036391,Western Europe,Europe,Northern Europe,Northern Europe,Sweden,Sverige,0,Western
+198,Switzerland,European,High income,8591361,Western Europe,Europe,Western Europe,Western Europe,Switzerland,Schweiz,0,Western
+199,United Kingdom,European,High income,67530161,Western Europe,Europe,Northern Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,Storbritannien,0,Western
+200,Benin,African,Lower middle income,11801151,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Benin,Benin,0,Non Western
+201,Burkina Faso,African,Low income,20321383,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Burkina Faso,Burkina Faso,0,Non Western
+202,Cabo Verde,African,Lower middle income,549936,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Cabo Verde,Kap Verde,0,Non Western
+203,Cameroon,African,Lower middle income,25876387,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Cameroon,Cameroun,0,Non Western
+204,Chad,African,Low income,15946882,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Chad,Tchad,0,Non Western
+205,Cote d'lvoire,African,Lower middle income,25716554,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Côte d’Ivoire,Elfenbenskysten,0,Non Western
+206,"Gambia,The",African,Low income,2347696,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Gambia,Gambia,0,Non Western
+207,Ghana,African,Lower middle income,30417858,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Ghana,Ghana,0,Non Western
+208,Guinea,African,Low income,12771246,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Guinea,Guinea,0,Non Western
+209,Guinea-Bissau,African,Low income,1920917,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Guinea-Bissau,Guinea-Bissau,0,Non Western
+210,Liberia,African,Low income,4937374,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Liberia,Liberia,0,Non Western
+211,Mali,African,Low income,19658023,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Mali,Mali,0,Non Western
+212,Mauritania,African,Lower middle income,4525698,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Mauritania,Mauretanien,0,Non Western
+213,Niger,African,Low income,23310719,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Niger,Niger,0,Non Western
+214,Nigeria,African,Lower middle income,200963603,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Nigeria,Nigeria,0,Non Western
+215,Sao Tome and Principe,African,Lower middle income,215048,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Middle Africa,Sao Tome and Principe,Sao Tome og Principe,0,Non Western
+216,Senegal,African,Lower middle income,16296362,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Senegal,Senegal,0,Non Western
+217,Sierra Leone,African,Low income,7813207,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Sierra Leone,Sierra Leone,0,Non Western
+218,Togo,African,Low income,8082359,Western Sub-Saharan Africa,Africa,Sub-Saharan Africa,Western Africa,Togo,Togo,0,Non Western
+219,Greenland,European,High income,NA,Western Europe,Americas,Northern America,Northern America,Greenland,Grønland,0,Western
+221,Western Sahara,NA,Unknown,NA,NA,Africa,Northern Africa,Northern Africa,Western Sahara,Western Sahara,0,Non Western
+222,British Indian Ocean Territory,NA,Unknown,NA,NA,Africa,Sub-Saharan Africa,Eastern Africa,British Indian Ocean Territory,British Indian Ocean Territory,0,Non Western
+223,French Southern Territories,NA,Unknown,NA,NA,Africa,Sub-Saharan Africa,Eastern Africa,French Southern Territories,French Southern Territories,0,Non Western
+224,Mayotte,NA,Unknown,NA,NA,Africa,Sub-Saharan Africa,Eastern Africa,Mayotte,Mayotte,0,Non Western
+225,Réunion,NA,Unknown,NA,NA,Africa,Sub-Saharan Africa,Eastern Africa,Réunion,"""Réunion",0,Non Western
+226,Saint Helena,NA,Unknown,NA,NA,Africa,Sub-Saharan Africa,Western Africa,Saint Helena,Saint Helena,0,Non Western
+227,Anguilla,NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,Caribbean,Anguilla,Anguilla,0,Non Western
+228,"Bonaire, Sint Eustatius and Saba",NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,Caribbean,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",0,Non Western
+229,Guadeloupe,NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,Caribbean,Guadeloupe,Guadeloupe,0,Non Western
+230,Martinique,NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,Caribbean,Martinique,Martinique,0,Non Western
+231,Montserrat,NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,Caribbean,Montserrat,Montserrat,0,Non Western
+232,Saint Barthélemy,NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,Caribbean,Saint Barthélemy,Saint Barthélemy,0,Non Western
+233,Bouvet Island,NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,South America,Bouvet Island,Bouvet Island,0,Non Western
+234,Falkland Islands (Malvinas),NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,South America,Falkland Islands (Malvinas),Falkland Islands (Malvinas),0,Non Western
+235,French Guiana,NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,South America,French Guiana,French Guiana,0,Non Western
+236,South Georgia and the South Sandwich Islands,NA,Unknown,NA,NA,Americas,Latin America and the Caribbean,South America,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,0,Non Western
+237,Saint Pierre and Miquelon,NA,Unknown,NA,NA,Americas,Northern America,Northern America,Saint Pierre and Miquelon,Saint Pierre and Miquelon,0,Non Western
+238,Antarctica,NA,Unknown,NA,NA,NA,NA,NA,Antarctica,Antarctica,0,Non Western
+239,Åland Islands,NA,Unknown,NA,NA,Europe,Northern Europe,Northern Europe,Åland Islands,Åland Islands,0,Western
+240,Faroe Islands,NA,Unknown,NA,NA,Europe,Northern Europe,Northern Europe,Faroe Islands,Faroe Islands,0,Western
+241,Guernsey,NA,Unknown,NA,NA,Europe,Northern Europe,Northern Europe,Guernsey,Guernsey,0,Western
+242,Jersey,NA,Unknown,NA,NA,Europe,Northern Europe,Northern Europe,Jersey,Jersey,0,Western
+243,Svalbard and Jan Mayen Islands,NA,Unknown,NA,NA,Europe,Northern Europe,Northern Europe,Svalbard and Jan Mayen Islands,Svalbard and Jan Mayen Islands,0,Western
+244,Holy See,NA,Unknown,NA,NA,Europe,Southern Europe,Southern Europe,Holy See,Holy See,0,Western
+245,Christmas Island,NA,Unknown,NA,NA,Oceania,Australia and New Zealand,Australia and New Zealand,Christmas Island,Christmas Island,0,Non Western
+246,Cocos (Keeling) Islands,NA,Unknown,NA,NA,Oceania,Australia and New Zealand,Australia and New Zealand,Cocos (Keeling) Islands,Cocos (Keeling) Islands,0,Non Western
+247,Heard Island and McDonald Islands,NA,Unknown,NA,NA,Oceania,Australia and New Zealand,Australia and New Zealand,Heard Island and McDonald Islands,Heard Island and McDonald Islands,0,Non Western
+248,Norfolk Island,NA,Unknown,NA,NA,Oceania,Australia and New Zealand,Australia and New Zealand,Norfolk Island,Norfolk Island,0,Non Western
+249,United States Minor Outlying Islands,NA,Unknown,NA,NA,Oceania,Micronesia,Micronesia,United States Minor Outlying Islands,United States Minor Outlying Islands,0,Non Western
+250,Pitcairn,NA,Unknown,NA,NA,Oceania,Polynesia,Polynesia,Pitcairn,Pitcairn,0,Non Western
+251,Tokelau,NA,Unknown,NA,NA,Oceania,Polynesia,Polynesia,Tokelau,Tokelau,0,Non Western
+252,Wallis and Futuna Islands,NA,Unknown,NA,NA,Oceania,Polynesia,Polynesia,Wallis and Futuna Islands,Wallis and Futuna Islands,0,Non Western
+253,Yugoslavia,European,Unknown,NA,Central Europe,Europe,Eastern Europe,Eastern Europe,Yugoslavia (not UN),Jugoslavien,0,Non Western
+254,Soviet Union,European,Unknown,NA,Eastern Europe,Europe,Eastern Europe,Eastern Europe,Russian Federation,Sovjetunionen,0,Non Western
+255,"Yugoslavia, Federal Republic",European,Unknown,NA,Central Europe,Europe,Eastern Europe,Eastern Europe,Yugoslavia (not UN),"Jugoslavien, Forbundsrepublikken",0,Non Western
+256,Serbia and Montenegro,European,Unknown,NA,Central Europe,Europe,Southern Europe,Southern Europe,Serbia and Montenegro (not UN),Serbien og Montenegro,0,Non Western
+257,Stateless,NA,Unknown,NA,NA,Unknown,Unknown,Unknown,Stateless (not UN),Statsløs,1,Unknown
+258,Czechoslovakia,European,Unknown,NA,Central Europe,Europe,Eastern Europe,Eastern Europe,Czechoslovakia (not UN),Tjekkoslovakiet,0,Western
+259,"Abroad, undisclosed",NA,Unknown,NA,NA,Unknown,Unknown,Unknown,"Abroad, undisclosed (not UN)",Udlandet uoplyst,1,Unknown
+260,Unknown country,NA,Unknown,NA,NA,Unknown,Unknown,Unknown,Unknown country (not UN),Land ukendt,1,Unknown
+261,"Iceland, danish part",European,Unknown,NA,Western Europe,Europe,Northern Europe,Northern Europe,Iceland,"Island, ligeret dansk",0,Western
+262,West Indies,Americas,Unknown,NA,NA,NA,Latin America and the Caribbean,Caribbean,West Indies (not UN),Vestindiske Øer,0,Non Western
+263,"Middle East, undisclosed",Eastern Mediterranean,Unknown,NA,NA,Asia,Western Asia,Western Asia,"Middle East, undisclosed (not UN)",Mellemøsten uoplyst,1,Non Western
+264,"Asia, undisclosed",NA,Unknown,NA,NA,Asia,Unknown,Unknown,"Asia, undisclosed (not UN)",Asien uoplyst,1,Non Western
+265,"Europe, undisclosed",European,Unknown,NA,NA,Europe,Unknown,Unknown,"Europe, undisclosed (not UN)",Europa uoplyst,1,Unknown
+266,"Africa, undisclosed",African,Unknown,NA,NA,Africa,Unknown,Unknown,"Africa, undisclosed (not UN)",Afrika uoplyst,1,Non Western
