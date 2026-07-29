@@ -2,10 +2,10 @@
 Authors: Alissa Valentine, Helen Coupland, Eike Petersen, Emily Beaman, Merete Osler, Aasa Feragen, Melanie Ganz
 
 # Contents
-This repo contains supplementary materials, sample code, and a mapping file used in the paper "Nationwide AI Models for Depression Prediction: Regional Generalizability and Culturally Sensitive Variable Selection", accepted to AIES 2026. 
+This repo contains the appendix, sample code, and a mapping file used in the paper "Nationwide AI Models for Depression Prediction: Regional Generalizability and Culturally Sensitive Variable Selection", accepted to AIES 2026. 
 
-# Supplementary Materials
-Please view the `Supplementary_materials.pdf` file to see information on:
+# Appendix
+Please view the `Appendix.pdf` file to see information on:
 1. Data pre-processing for MDD prediction task
 2. Tabular transformer model and training for MDD prediction task
 3. Model performance with multiple seeds
@@ -20,4 +20,4 @@ Please view the `Supplementary_materials.pdf` file to see information on:
 Please view the `run_transformer.py` file for example code on how to train the TF-Transformer model for the binary classification of MDD diagnosis.
 
 # Mapping File
-Please view the `WHO_UN_country_map251211.csv` file for a mapping file that includes country names, UN regions, and other classifications that can be used to reproduce our work.
+Please view the `country_mapping.csv` file for a mapping file that includes country names, UN regions, and other classifications that can be used to reproduce our work.
